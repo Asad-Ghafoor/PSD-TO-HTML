@@ -1,0 +1,529 @@
+@media screen and (max-width: 320px) {
+    footer {
+        flex-wrap: wrap;
+    }
+
+    .left-image,
+    .right-image {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .left-image img {
+        margin-right: 0;
+    }
+
+    .right-image img {
+        margin-left: 110px;
+        max-width: 54%;
+        height: 43px;
+        margin-top: 16px;
+        border-radius: 14px;
+    }
+
+    #Overlay_image_payment {
+        right: 286px;
+        top: 22px;
+        width: 52px;
+    }
+
+    /* for card */
+    #Overlay_image {
+        right: 69px;
+        top: 3px;
+        width: 17px;
+    }
+
+    #Text_on_card1 {
+        right: 43px;
+        top: 21px;
+        color: #a619f0;
+        font-size: 5px;
+    }
+
+    #Text_on_card2 {
+        right: 29px;
+        top: 21px;
+        color: #19d9f0;
+        font-size: 5px;
+    }
+
+    #Text_on_card3 {
+        right: 45px;
+        top: 22px;
+        color: #5fef19;
+        font-size: 5px;
+    }
+
+    #FourCards_image1 {
+        margin-left: 35px;
+    }
+
+    #FourCards_image2 {
+        margin-left: 35px;
+    }
+
+    #FourCard_Overlay_image1 {
+        right: 149px;
+        top: 4px;
+    }
+
+
+    #FourCard_Overlay_image {
+        right: 153px;
+        top: 6px;
+    }
+
+    #Fourcards_text1 {
+        left: 58px;
+        top: 40px;
+        font-weight: 100;
+        color: #a619f0;
+    }
+
+    #Fourcards_text2 {
+        left: 58px;
+        top: 40px;
+        font-weight: 100;
+        color: #19d9f0;
+    }
+
+    #Fourcards_text3 {
+        left: 58px;
+        top: 40px;
+        font-weight: 100;
+        color: #f0cf19;
+    }
+
+    #Fourcards_text4 {
+        left: 58px;
+        top: 40px;
+        font-weight: 100;
+        color: #5fef19;
+    }
+
+    #Fourcards_text5 {
+        left: 58px;
+        top: 40px;
+        font-weight: 100;
+        color: #ef1992;
+    }
+
+    #Fourcards_text6 {
+        left: 58px;
+        top: 40px;
+        font-weight: 100;
+        color: #ed1929;
+    }
+
+    #Card_container {
+        padding-top: 24px;
+    }
+
+    .staffmanagement-img {
+        height: auto;
+        width: 68px;
+        margin-left: 109px;
+        top: -129px;
+    }
+}
+
+
+
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+    footer {
+        flex-wrap: wrap;
+    }
+
+    .left-image,
+    .right-image {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .left-image img {
+        margin-right: 0;
+    }
+
+    .right-image img {
+        margin-left: 110px;
+        max-width: 54%;
+        height: 43px;
+        margin-top: 16px;
+        border-radius: 14px;
+    }
+
+    /* for card */
+    #Overlay_image {
+        right: 64px;
+        top: 3px;
+        width: 17px
+    }
+
+    #Text_on_card1 {
+        right: 31px;
+        top: 20px;
+        color: #a619f0;
+        font-size: 6px;
+    }
+
+    #Text_on_card2 {
+        right: 29px;
+        top: 21px;
+        color: #19d9f0;
+        font-size: 5px;
+    }
+
+    #Text_on_card3 {
+        right: 45px;
+        top: 22px;
+        color: #5fef19;
+        font-size: 5px;
+    }
+
+    .has-search .form-control-feedback {
+        position: absolute;
+        z-index: 2;
+        display: block;
+        width: 2.375rem;
+        height: 4.375rem;
+        line-height: 2.0rem;
+        text-align: center;
+        pointer-events: none;
+        color: pink;
+    }
+
+    #Dashboard_text1 {
+        color: #f40303;
+        margin-left: 28px;
+        margin-top: -24px
+    }
+
+    #Dashboard_text2 {
+        color: #f40303;
+        margin-left: 8px;
+        margin-top: -19px;
+    }
+
+    #Card_container {
+        padding-top: 0px;
+    }
+
+    #Dashboard_card_text_100-1 {
+        margin-left: 21px;
+        margin-top: -204px;
+        color: #a619f0;
+    }
+
+    #Dashboard_card_text_100-2 {
+        margin-left: 21px;
+        margin-top: -204px;
+        color: #19d9f0;
+    }
+
+    #Dashboard_card_text_100-3 {
+        margin-left: 21px;
+        margin-top: -204px;
+        color: #f0cf19;
+    }
+
+    #Dashboard_card_text_100-4 {
+        margin-left: 21px;
+        margin-top: -204px;
+        color: #5fef19;
+    }
+
+    #Dashboard_card_text-2 {
+        margin-left: 22px;
+        margin-top: -140px;
+        color: black;
+    }
+
+    #Dashboard_card_text-3 {
+        margin-left: 32px;
+        margin-top: -60px;
+        opacity: 0.5;
+    }
+
+    #FourCards_image1 {
+        margin-left: 35px;
+    }
+
+    #FourCards_image2 {
+        margin-left: 35px;
+    }
+
+    #FourCard_Overlay_image1 {
+        right: 226px;
+        top: 11px;
+    }
+
+    #FourCard_Overlay_image {
+        right: 226px;
+        top: 11px;
+    }
+
+    #Fourcards_text1 {
+        left: 65px;
+        top: 61px;
+        font-weight: bold;
+        color: #a619f0;
+    }
+
+    #Fourcards_text2 {
+        left: 65px;
+        top: 61px;
+        font-weight: bold;
+        color: #19d9f0;
+    }
+
+    #Fourcards_text3 {
+        left: 65px;
+        top: 61px;
+        font-weight: bold;
+        color: #f0cf19;
+    }
+
+    #Fourcards_text4 {
+        left: 65px;
+        top: 61px;
+        font-weight: bold;
+        color: #5fef19;
+    }
+
+    #Fourcards_text5 {
+        left: 65px;
+        top: 61px;
+        font-weight: bold;
+        color: #ef1992;
+    }
+
+    #Fourcards_text6 {
+        left: 76px;
+        top: 61px;
+        font-weight: bold;
+        color: #ed1929;
+    }
+
+    #Overlay_image_payment {
+        right: 286px;
+        top: 22px;
+        width: 52px;
+    }
+
+    .staffmanagement-img {
+        height: auto;
+        width: 68px;
+        margin-left: 148px;
+        top: -113px;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    footer {
+        flex-wrap: wrap;
+    }
+
+    .left-image,
+    .right-image {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .left-image img {
+        margin-right: 0;
+    }
+
+    .right-image img {
+        margin-left: 140px;
+        max-width: 70%;
+        height: 47px;
+        margin-top: 15px;
+        border-radius: 14px
+    }
+
+    /* for card */
+    #Overlay_image {
+        right: 123px;
+        top: 7px;
+        width: 27px;
+    }
+
+    #Text_on_card1 {
+        right: 81px;
+        top: 36px;
+        color: #a619f0;
+        font-size: 8px;
+    }
+
+    #Text_on_card2 {
+        right: 73px;
+        top: 37px;
+        color: #19d9f0;
+        font-size: 7px;
+    }
+
+    #Text_on_card3 {
+        right: 87px;
+        top: 37px;
+        color: #5fef19;
+        font-size: 8px;
+    }
+
+    #FourCards_image1 {
+        margin-left: 35px;
+    }
+
+    #FourCards_image2 {
+        margin-left: 35px;
+    }
+
+    #FourCard_Overlay_image1 {
+        right: 355px;
+        top: 11px;
+    }
+
+    #FourCard_Overlay_image {
+        right: 355px;
+        top: 11px;
+    }
+
+    #Fourcards_text1 {
+        left: 80px;
+        top: 98px;
+        font-weight: bold;
+        color: #a619f0;
+    }
+
+    #Fourcards_text2 {
+        left: 80px;
+        top: 98px;
+        font-weight: bold;
+        color: #19d9f0;
+    }
+
+    #Fourcards_text3 {
+        left: 80px;
+        top: 98px;
+        font-weight: bold;
+        color: #f0cf19;
+    }
+
+    #Fourcards_text4 {
+        left: 80px;
+        top: 98px;
+        font-weight: bold;
+        color: #5fef19;
+    }
+
+    #Fourcards_text5 {
+        left: 80px;
+        top: 98px;
+        font-weight: bold;
+        color: #ef1992;
+    }
+
+    #Fourcards_text6 {
+        left: 76px;
+        top: 61px;
+        font-weight: bold;
+        color: #ed1929;
+    }
+
+    #Overlay_image_payment {
+        right: 286px;
+        top: 22px;
+        width: 52px;
+    }
+
+    .staffmanagement-text {}
+
+    .staffmanagement-img {
+        height: auto;
+        width: 68px;
+        margin-left: 109px;
+        top: -129px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 767px) and (max-width:1024px) {
+    #FourCards_image1 {
+        margin-left: 35px;
+    }
+
+    #FourCards_image2 {
+        margin-left: 35px;
+    }
+
+    #FourCard_Overlay_image1 {
+        right: 221px;
+        top: 11px;
+    }
+
+    #FourCard_Overlay_image {
+        right: 221px;
+        top: 11px;
+    }
+
+    #Fourcards_text1 {
+        left: 73px;
+        top: 60px;
+        font-weight: bold;
+        color: #a619f0;
+    }
+
+    #Fourcards_text2 {
+        left: 73px;
+        top: 60px;
+        font-weight: bold;
+        color: #19d9f0;
+    }
+
+    #Fourcards_text3 {
+        left: 73px;
+        top: 60px;
+        font-weight: bold;
+        color: #f0cf19;
+    }
+
+    #Fourcards_text4 {
+        left: 73px;
+        top: 60px;
+        font-weight: bold;
+        color: #5fef19;
+    }
+
+    #Fourcards_text5 {
+        left: 73px;
+        top: 60px;
+        font-weight: bold;
+        color: #ef1992;
+    }
+
+    #Fourcards_text6 {
+        left: 73px;
+        top: 60px;
+        font-weight: bold;
+        color: #ed1929;
+    }
+
+    #Overlay_image_payment {
+        right: 286px;
+        top: 22px;
+        width: 52px;
+    }
+
+}
